@@ -1,2 +1,1 @@
-# Test
-Hello Word!
+O programa tem como objetivo fazer um teste demonstrativo de como funciona uma conta de banco, o projeto tem objetivo de praticar os comandos do git.
